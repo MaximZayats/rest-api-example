@@ -4,6 +4,9 @@
 - [`Pydantic`](https://github.com/samuelcolvin/pydantic)
 - [`TortoiseORM`](https://github.com/tortoise/tortoise-orm)
 
+## Online Demo
+You can check the online demo [here](http://40.67.229.195/docs).
+
 ## Installation
 - `git clone https://github.com/MaximZayats/rest-api-example`
 - `cd rest-api-example`
